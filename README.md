@@ -1,6 +1,6 @@
 ### Hello My name is sori jeong 👋
 
-### My front-end development's skill
+### My front-end development's skill is...
 - Javascript, ES6
 - Vue.js, Ember.js
 - CSS, Html
