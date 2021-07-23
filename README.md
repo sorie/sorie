@@ -12,6 +12,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsorie&count_bg=%2343BCFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+If you wanna see more about the project I worked on. <a href="https://github.com/sorie/soland">Click😄</a>
+
 <!--
 **sorie/sorie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
