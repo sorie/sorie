@@ -1,4 +1,4 @@
-### Hello My name is sori jeong 👋
+### Hello My name is sori joy 👋
 
 ### My front-end development's skill is...
 - Javascript, ES6
