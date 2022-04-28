@@ -1,10 +1,9 @@
-### Hello My name is sori joy 👋
+### Hello My name is sori 👋
 
 ### My front-end development's skill is...
 - Javascript, ES6
-- Vue.js, Ember.js
+- React.js, Vue.js, Ember.js
 - CSS, Html
-- Node.js, MySql
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorie&show_icons=true&theme=radical)
 
