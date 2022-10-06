@@ -1,4 +1,4 @@
-### Hello My name is sori 👋
+### Hello My name is lala 👋
 
 ### My front-end development's skill is...
 - Javascript, ES6
