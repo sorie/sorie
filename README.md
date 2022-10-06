@@ -5,7 +5,7 @@
 - React.js, Vue.js, Ember.js
 - CSS, Html
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorie&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorie&show_icons=true&theme=radical) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorie&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
